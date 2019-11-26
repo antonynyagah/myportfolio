@@ -82,25 +82,19 @@ let resumeData = {
   ],
   "portfolio":[
     {
-      "name":"project1",
-      "description":"mobileapp",
-      "imgurl":"images/portfolio/phone.jpg"
+      "name":"todo-list",
+      "description":"create a list of things to do!",
+      "imgurl":"images/portfolio/react.png",
+      "website": "https://antony-nyagah-react-todo-list.netlify.com/"
+      
     },
     {
-      "name":"project2",
-      "description":"mobileapp",
-      "imgurl":"images/portfolio/project.jpg"
+      "name":"book-search",
+      "description":"search and learn more about your favorite book!",
+      "imgurl":"images/portfolio/react.png",
+      "website": "https://antony-nyagah-book-search.herokuapp.com/"
     },
-    {
-      "name":"project3",
-      "description":"mobileapp",
-      "imgurl":"images/portfolio/project2.png"
-    },
-    {
-      "name":"project4",
-      "description":"mobileapp",
-      "imgurl":"images/portfolio/phone.jpg"
-    }
+   
   ],
   "testimonials":[
     {
