@@ -82,17 +82,30 @@ let resumeData = {
   ],
   "portfolio":[
     {
-      "name":"todo-list",
-      "description":"create a list of things to do!",
+      "name":"Todo-List",
+      "description":"Create a list of things to do!",
       "imgurl":"images/portfolio/react.png",
       "website": "https://antony-nyagah-react-todo-list.netlify.com/"
       
     },
     {
-      "name":"book-search",
-      "description":"search and learn more about your favorite book!",
+      "name":"Book-Search",
+      "description":"Search and learn more about your favorite book!",
       "imgurl":"images/portfolio/react.png",
       "website": "https://antony-nyagah-book-search.herokuapp.com/"
+    },
+    {
+      "name":"React News ",
+      "description":"Catch up on news for the day!",
+      "imgurl":"images/portfolio/react.png",
+      "website": "https://antony-nyagah-react-news.herokuapp.com/"
+    },
+
+    {
+      "name":"Saltiest Hacker News Comments ",
+      "description":"login and see the most saltiest comments from Hackner News!",
+      "imgurl":"images/portfolio/react.png",
+      "website": "https://salty-hacker-trolls.eddiejdev.now.sh/login"
     },
    
   ],
