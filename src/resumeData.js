@@ -84,28 +84,34 @@ let resumeData = {
     {
       "name":"Todo-List",
       "description":"Create a list of things to do!",
-      "imgurl":"images/portfolio/react.png",
+      "imgurl":"images/portfolio/todo.png",
       "website": "https://antony-nyagah-react-todo-list.netlify.com/"
       
     },
     {
       "name":"Book-Search",
       "description":"Search and learn more about your favorite book!",
-      "imgurl":"images/portfolio/react.png",
+      "imgurl":"images/portfolio/booksearch.png",
       "website": "https://antony-nyagah-book-search.herokuapp.com/"
     },
     {
       "name":"React News ",
       "description":"Catch up on news for the day!",
-      "imgurl":"images/portfolio/react.png",
+      "imgurl":"images/portfolio/news.png",
       "website": "https://antony-nyagah-react-news.herokuapp.com/"
     },
 
     {
       "name":"Saltiest Hacker News Comments ",
       "description":"login and see the most saltiest comments from Hackner News!",
-      "imgurl":"images/portfolio/react.png",
+      "imgurl":"images/portfolio/salty.png",
       "website": "https://salty-hacker-trolls.eddiejdev.now.sh/login"
+    },
+    {
+      "name":"S&J architect ",
+      "description":"web challenge that showcases pratical html,css and javascript skills",
+      "imgurl":"images/portfolio/s&j.png",
+      "website": "https://antony-nyagah-ui-challenge.netlify.com/"
     },
    
   ],
