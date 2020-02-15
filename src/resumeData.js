@@ -3,7 +3,7 @@ let resumeData = {
   "name": "Antony Nyagah",
   "role": "Full Stack Developer",
   "linkedinId":"Your LinkedIn Id",
-  "roleDescription": " Current student at Lambda School, a YC backed immersive program that focuses on teaching you practical skills to be a successful full stack developer.",
+  "roleDescription": "My name is Antony Nyagah, I am a B.S Electrical Engineer graduate from Wichita State University. I am a current systems engineer with Atronix Engineer and a part time student at Lambda School for full stack web development and computer science.",
   "socialLinks":[
       {
         "name":"linkedin",
@@ -62,23 +62,39 @@ let resumeData = {
       "skillname":"JavaScript"
     },
     {
+      "skillname":"SQL"
+    },
+    {
+      "skillname":"Python (working knowledge)"
+    },
+    {
       "skillname":"ReactJS"
-    },
-    {
-      "skillname":"ReduxJS"
-    },
-    {
-      "skillname":"MongoDB"
     },
     {
       "skillname":"NodeJS"
     },
     {
-      "skillname":"SQL"
+      "skillname":"Express"
     },
     {
-      "skillname":"Python"
+      "skillname":"KnexJS"
     },
+    {
+      "skillname":"SQLite3"
+    },
+    {
+      "skillname":"Authentication"
+    },
+    {
+      "skillname":"Git/Github"
+    },
+    {
+      "skillname":"Code review"
+    },
+    {
+      "skillname":"Agile methodology"
+    },
+    
   ],
   "portfolio":[
     {
@@ -101,12 +117,12 @@ let resumeData = {
       "website": "https://antony-nyagah-react-news.herokuapp.com/"
     },
 
-    {
+    /*{
       "name":"Saltiest Hacker News Comments ",
       "description":"login and see the most saltiest comments from Hackner News!",
       "imgurl":"images/portfolio/salty.png",
       "website": "https://salty-hacker-trolls.eddiejdev.now.sh/login"
-    },
+    },*/
     {
       "name":"S&J architect ",
       "description":"web challenge that showcases pratical html,css and javascript skills",
