@@ -3,7 +3,7 @@ let resumeData = {
   "name": "Antony Nyagah",
   "role": "Full Stack Developer",
   "linkedinId":"Your LinkedIn Id",
-  "roleDescription": "My name is Antony Nyagah, I am a B.S Electrical Engineer graduate from Wichita State University. I am a current systems engineer with Atronix Engineer and a part time student at Lambda School for full stack web development and computer science.",
+  "roleDescription": "My name is Antony Nyagah, I am a B.S Electrical Engineer graduate from Wichita State University. I am a current systems engineer with Atronix Engineering and a part time student at Lambda School for full stack web development and computer science.",
   "socialLinks":[
       {
         "name":"linkedin",
@@ -65,7 +65,7 @@ let resumeData = {
       "skillname":"SQL"
     },
     {
-      "skillname":"Python (working knowledge)"
+      "skillname":"Python"
     },
     {
       "skillname":"ReactJS"
@@ -110,12 +110,12 @@ let resumeData = {
       "imgurl":"images/portfolio/booksearch.png",
       "website": "https://antony-nyagah-book-search.herokuapp.com/"
     },
-    {
+  /*{
       "name":"React News ",
       "description":"Catch up on news for the day!",
       "imgurl":"images/portfolio/news.png",
       "website": "https://antony-nyagah-react-news.herokuapp.com/"
-    },
+    },*/
 
     /*{
       "name":"Saltiest Hacker News Comments ",
@@ -125,11 +125,16 @@ let resumeData = {
     },*/
     {
       "name":"S&J architect ",
-      "description":"web challenge that showcases pratical html,css and javascript skills",
+      "description":"Web challenge that showcases practical html,css and javascript skills",
       "imgurl":"images/portfolio/s&j.png",
       "website": "https://antony-nyagah-ui-challenge.netlify.com/"
     },
-   
+    {
+      "name":"Employee-List ",
+      "description":"Create your own employee database!",
+      "imgurl":"images/portfolio/employee.png",
+      "website": "https://antony-nyagah-employeelist.herokuapp.com/"
+    },
   ],
   "testimonials":[
     {
